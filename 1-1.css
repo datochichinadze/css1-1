@@ -1,0 +1,83 @@
+h1{
+    color: #8E26C0;
+    font-family: "JetBrains Mono";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+#maindiscription{
+    background-color: bisque;
+    color: #F00;
+    font-size: 32px;
+    padding-left: 40px;
+    padding-top: 24px;
+    padding-right: 40px;
+    padding-bottom: 24px;
+    width: 450px;
+    background: #FFE8E8;
+    text-align: left;
+
+}
+
+#name{
+    color: #85647B;
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 2px solid #7F56D9;
+    border-left: 4px solid #C11574;
+    border-top: 2px solid #00C76E;
+    border-right: 4px solid #05F;
+    width: 1005px;
+}
+
+#sale{
+    color: #414651;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 1023px;
+    color: #414651;
+    text-align: center;
+    font-size: 32px;
+    background: #FFE8E8;
+    width: 830px;
+    padding: 24px 40px;
+    align-items: center;
+}
+
+#ddd{
+    color: #FF4405;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+#document{
+    color: #0064CE;
+    text-align: right;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 1069px;
+    border: 2px solid #3538CD;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#img1{
+    width: 556px;
+    height: 347px;
+    flex-shrink: 0;
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+}
